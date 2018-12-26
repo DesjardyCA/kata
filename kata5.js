@@ -1,5 +1,4 @@
 var camelCase = function(input) {
-  // Your code here
   input = input.split(" ");
   var out = "";
 
